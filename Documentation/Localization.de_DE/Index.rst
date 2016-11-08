@@ -22,10 +22,10 @@ EXT: Cart
         |release|
 
     :Sprache:
-        en
+        de
 
     :Beschreibung:
-        Cart is an extension that integrates a shop in TYPO3
+        Cart ist eine Erweiterung, die einen Shop in TYPO3 integriert
 
     :Keywords:
         cart, shop, shopping, e-commerce, ecommerce, checkout, payment
